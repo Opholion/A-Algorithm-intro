@@ -1,0 +1,5 @@
+
+
+
+
+//myGame* NewSearch(ESearchType search);
